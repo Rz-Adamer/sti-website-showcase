@@ -6,13 +6,13 @@ Sitio web corporativo desarrollado para un servicio técnico especializado en re
 
 ---
 
-## 🌐 Sitio web
+## Sitio web
 
 **Demo:** https://www.printersolutionsxpress.com/ 
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 El objetivo del proyecto fue desarrollar un sitio web profesional para mostrar los servicios de la empresa, facilitar el contacto con los clientes y mejorar su presencia en internet.
 
@@ -20,7 +20,7 @@ El sitio fue desarrollado completamente desde cero utilizando PHP nativo, HTML, 
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 ### Backend
 
@@ -37,7 +37,7 @@ El sitio fue desarrollado completamente desde cero utilizando PHP nativo, HTML, 
 
 ---
 
-## 🏗️ Características
+## Características
 
 - Diseño responsive
 - Optimización SEO básica
@@ -52,7 +52,7 @@ El sitio fue desarrollado completamente desde cero utilizando PHP nativo, HTML, 
 
 ---
 
-## ☁️ Despliegue
+## Despliegue
 
 El proyecto se encuentra desplegado en producción utilizando:
 
@@ -64,7 +64,7 @@ El proyecto se encuentra desplegado en producción utilizando:
 
 ---
 
-## 📸 Capturas
+## Capturas
 
 ### Página principal
 
@@ -83,7 +83,7 @@ El proyecto se encuentra desplegado en producción utilizando:
 
 ---
 
-## 🎯 Mi participación
+## Mi participación
 
 Proyecto desarrollado de forma individual.
 
@@ -101,7 +101,7 @@ Responsabilidades:
 
 ---
 
-## 🔒 Código fuente
+## Código fuente
 
 El código fuente de este proyecto es privado.
 
@@ -109,7 +109,7 @@ Si deseas conocer más detalles técnicos sobre la implementación, puedes conta
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Renzo Huamán
 
